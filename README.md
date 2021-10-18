@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://travis-ci.com/blacktrue/go-safestr"><img src="https://travis-ci.com/blacktrue/go-safestr.svg?branch=master"></a>
+  <a href="https://app.travis-ci.com/github/blacktrue/go-safestr"><img src="https://app.travis-ci.com/blacktrue/go-safestr.svg?branch=main"></a>
   <a href="https://codecov.io/gh/blacktrue/go-safestr">
-    <img alt="Coverage" src="https://codecov.io/gh/blacktrue/go-safestr/branch/master/graphs/badge.svg?branch=master">
+    <img alt="Coverage" src="https://codecov.io/gh/blacktrue/go-safestr/branch/main/graphs/badge.svg?branch=main">
   </a>
 </p>
 
