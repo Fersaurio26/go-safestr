@@ -27,7 +27,7 @@ import (
 	"github.com/blacktrue/go-safestr"
 )
 
-parsedValue, err := Parse('1232124543233254', '*', 4)
+parsedValue, err := Parse('1232124543233254', '*', 6)
 if err != nil {
 	log.Println(err.Error())
 }
